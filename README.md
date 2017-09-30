@@ -84,7 +84,7 @@ And here is a GIF showing how the output changes during the training process. No
 #### Udine
 Model trained on udine.jpg applied to a few images: 
 <p align="center">
-    <img src="style_imgs/udine.jpg" height="200px">
+    <img src="style_imgs/udnie.jpg" height="200px">
 </p>
 
 <p align="center">
