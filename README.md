@@ -53,8 +53,8 @@ For example, to transfer the style of mosaic.jpg onto maine.jpg on a GPU, I woul
 $ python style.py transfer --model-path model/mosaic.model --source content_imgs/maine.jpg --target maine_mosaic.jpg --gpu 1
 ```
 
-### Results
-#### Mosaic
+## Results
+### Mosaic
 Model trained on mosaic.jpg applied to a few images: 
 <p align="center">
     <img src="style_imgs/mosaic.jpg" height="200px">
@@ -81,7 +81,7 @@ And here is a GIF showing how the output changes during the training process. No
 </p>
 
 
-#### Udine
+### Udine
 Model trained on udine.jpg applied to a few images: 
 <p align="center">
     <img src="style_imgs/udnie.jpg" height="200px">
@@ -94,17 +94,17 @@ Model trained on udine.jpg applied to a few images:
 </p>
 
 <p align="center">
-    <img src="figure/udine_amber.jpg" height="200px">
-    <img src="figure/udine_dan.jpg" height="200px">
-    <img src="figure/udine_maine.jpg" height="200px">
+    <img src="figure/udnie_amber.jpg" height="200px">
+    <img src="figure/udnie_dan.jpg" height="200px">
+    <img src="figure/udnie_maine.jpg" height="200px">
 </p>
 
 And here is a GIF showing how the output changes during the training process. Notably, the network generates qualitatively appealing output within a 1000 iterations.
 
 <p align="center">
-    <img src="figure/udine_amber.gif" height="200px">
-    <img src="figure/udine_dan.gif" height="200px">
-    <img src="figure/udine_maine.gif" height="200px">
+    <img src="figure/udnie_amber.gif" height="200px">
+    <img src="figure/udnie_dan.gif" height="200px">
+    <img src="figure/udnie_maine.gif" height="200px">
 </p>
 
 ## Acknowledgements
