@@ -1,9 +1,5 @@
 # Style Transfer
 
-As part of the implementation series of [Joseph Lim's group at USC](http://csail.mit.edu/~lim), our motivation is to accelerate (or sometimes delay) research in the AI community by promoting open-source projects. With this in mind, we implement state-of-the-art research papers, and publicly share them with concise reports. Please visit our [group github site](https://github.com/gitlimlab) for other projects.
-
-This project is implemented by Daniel Yang and the code has been reviewed by [tbd]() before being published.
-
 ## Descriptions
 This project is a PyTorch implementation of [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155). This paper trains an **image transformation network** to perform style transfer as opposed to optimizing along the manifold of images as originally propsed by [Gatys et al.](https://arxiv.org/abs/1508.06576).
 
